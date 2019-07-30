@@ -4,9 +4,7 @@ end
 def summon_captain_planet(fruits)
   # code an argument here
   # Your code here
-  ["wind","fire"].each do |name|
-   puts " #{name}!".upcase
-   end
+ 
 end
 
 def long_planeteer_calls()# code an argument here

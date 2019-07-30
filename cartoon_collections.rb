@@ -4,7 +4,7 @@ end
 def summon_captain_planet(fruits)
   # code an argument here
   # Your code here
-  ["earth","wind","fire"].each do |name|
+  ["wind","fire"].each do |name|
    puts " #{name}!".upcase
    end
 end
